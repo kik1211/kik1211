@@ -13,7 +13,7 @@ Embedded C/C++ • Verilog RTL • DSP • TinyML • Python / TypeScript
 
 ### 1. [N.O.V.A. — VLC Secure Access & Autonomous Docking](https://github.com/kik1211/nova-vlc-secure-docking)
 > **ESP32-S3 • C++ • Goertzel DSP • Edge Impulse 1D-CNN • PN532 NFC • Stepper Alignment**  
-ESP32-S3 research prototype combining NFC card verification with Visible Light Communication (VLC) for dual-factor physical access control. Implements an esp_timer hardware ISR, parallel Goertzel IIR DFT frequency evaluation (bins =10, 20, 30$), Edge Impulse 1D-CNN classifier wrapper (\text{ B}$ tensor arena), and a 2-phase autonomous optical stepper alignment platform.
+ESP32-S3 research prototype combining NFC card verification with Visible Light Communication (VLC) for dual-factor physical access control. Implements an esp_timer hardware ISR, parallel Goertzel IIR DFT frequency evaluation (bins k=10, 20, 30), Edge Impulse 1D-CNN classifier wrapper (448-byte tensor arena), and a 2-phase autonomous optical stepper alignment platform.
 
 ### 2. [Protocol Monitor IP Core](https://github.com/kik1211/Protocol-Monitor-IP)
 > **Verilog HDL • Xilinx Vivado • ZedBoard Zynq-7000 • Valid/Ready Handshakes • Hardware Verification**  
