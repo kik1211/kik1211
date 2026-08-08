@@ -11,13 +11,13 @@ ESP32 C++ • Verilog RTL • Goertzel DSP • TinyML
 
 ## 🛠️ Core Engineering Projects
 
-### 1. [Protocol Monitor IP Core](https://github.com/kik1211/Protocol-Monitor-IP)
+### 1. [N.O.V.A. — VLC Secure Access & Autonomous Docking](https://github.com/kik1211/nova-vlc-secure-docking)
+> **ESP32-S3 • C++ • VLC • Goertzel DSP • TinyML • NFC**  
+ESP32-S3 research prototype with Visible Light Communication (VLC) for autonomous docking and dual-factor secure access.
+
+### 2. [Protocol Monitor IP Core](https://github.com/kik1211/Protocol-Monitor-IP)
 > **Verilog HDL • Xilinx Vivado • Zynq-7000 • FPGA Verification**  
 Synthesizable FPGA IP core for passive Valid/Ready streaming protocol monitoring with real-time assertion violation detection, cycle latency measurement, and throughput telemetry.
-
-### 2. [N.O.V.A. — VLC Secure Access & Autonomous Docking](https://github.com/kik1211/nova-vlc-secure-docking)
-> **ESP32-S3 • C++ • VLC • Goertzel DSP • TinyML • NFC**  
-ESP32-S3 research prototype combining NFC card verification with Visible Light Communication (VLC) for dual-factor physical access control and autonomous optical stepper alignment.
 
 ### 3. [NeuroFrost — Temporal Infrared Thermometry Inference](https://github.com/kik1211/NeuroFrost-Inference)
 > **ESP32 • MLX90614 • TinyML • Edge Impulse • TensorFlow Lite Micro**  
