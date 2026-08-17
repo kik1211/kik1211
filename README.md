@@ -27,10 +27,10 @@ Embedded TinyML proof-of-concept using temporal infrared thermometry and on-devi
 
 ## ⚙️ Supporting Portfolio
 
-* **[Agentic Medical Claims Automation Platform](https://github.com/kik1211/agentic-medclaims-automation)** — Full-stack hospital insurance claim processing platform (TypeScript, React 18, Express, Docker, Redis, BullMQ, Gemini LLM API, OCR).
+* **[Antigravity Mobile Remote](https://github.com/kik1211/Antigravity-IDE-Mobile-Remote)** — Mobile-first remote interface for Antigravity IDE with conversation mirroring, document access, quota monitoring, mobile chat, and CDP-based remote interaction (Node.js, Express, WebSockets, CDP).
 * **[QwenQuest MR — Spatial Wave Shooter](https://github.com/kik1211/QwenQuest-MR-Shooter)** — Mixed Reality spatial wave shooter built at Snapdragon Multiverse Hackathon Finale (Unity 6, Meta Quest 3, Arduino Voice KWS, Python Qwen LLM Relay).
+* **[Agentic Medical Claims Automation Platform](https://github.com/kik1211/agentic-medclaims-automation)** — Full-stack hospital insurance claim processing platform (TypeScript, React 18, Express, Docker, Redis, BullMQ, Gemini LLM API, OCR).
 * **[PDF Processing Suite](https://github.com/kik1211/pdf-processing-suite)** — Fast, privacy-first desktop web utility for local PDF document processing and dark-mode color inversion (Python 3, Flask, PyMuPDF).
-
 ---
 
 ## 📬 Connect
