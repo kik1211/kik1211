@@ -32,7 +32,3 @@ Embedded TinyML proof-of-concept using temporal infrared thermometry and on-devi
 * **[Agentic Medical Claims Automation Platform](https://github.com/kik1211/agentic-medclaims-automation)** — Full-stack hospital insurance claim processing platform (TypeScript, React 18, Express, Docker, Redis, BullMQ, Gemini LLM API, OCR).
 * **[PDF Processing Suite](https://github.com/kik1211/pdf-processing-suite)** — Fast, privacy-first desktop web utility for local PDF document processing and dark-mode color inversion (Python 3, Flask, PyMuPDF).
 ---
-
-## 📬 Connect
-
-* **GitHub Profile:** [github.com/kik1211](https://github.com/kik1211)
